@@ -1,9 +1,8 @@
 public class ContaTerminal {
     
-    int numero = 1021;
+    int numero;
     String agencia;
-    String nomeCliente = "MARIO ANDRADE";
-    double saldo = 237.48;
-
+    String nomeCliente;
+    double saldo;
 
 }
